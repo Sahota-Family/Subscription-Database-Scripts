@@ -18,4 +18,4 @@ OUTPUT inserted.SubscriptionID, inserted.SubscriptionName, inserted.BillingCycle
 VALUES (1, 'Netflix', 13.77, '05/13/2019', null, 4),
        (1, 'CrunchyRoll', 63.54, '03/16/2020', null, 5),
        (1, 'Xbox GamePass Ultimate', 15.89, '08/20/2019', null, 4),
-       (2, 'Hulu', 00.00, '01/01/2010', null, 4)
+       (2, 'Spotify + Hulu', 5.29, '06/03/2015', null, 4)
